@@ -10,14 +10,7 @@
 <details>
   <summary>The <a href="http://cosima.org.au/index.php/models/access-om2-01-2/">ACCESS-OM2-01</a> simulation output</summary>
   <p>
-  We share the model output via Zenodo, as listed below:
-  <li>Bottom temperature/salinity/seawater age</li>
-  <li>Surface Water-Mass Transformation (SWMT) on the continental shelf</li>
-  <li>Heat/freshwater flux across 4000 m</li>
-  <li>Sea ice concentration/extent</li>
-  <li>Meridional Overturning Circulation (MOC)</li>
-  <li>AABW transport/AMOC strength index</li>
-  <li>Vertical cross-sections of zonal-mean temperature/salinity/seawater age</li>
+  We share the model output on the <a href="https://doi.org/10.4225/41/5a2dc8543105a">Consortium for Ocean–Sea Ice Modeling in Australia (COSIMA) data collection website</a>.
   </p>
 </details>
 
@@ -25,7 +18,7 @@
   <summary>Additional <a href="http://climate-cms.wikis.unsw.edu.au/ACCESS-ESM_1.5">ACCESS-ESM1.5</a> simulation output</summary>
   <p>The ACCESS-ESM1.5 model output from Purich and England (2022) was provided directly by Ariaan Purich.</p>
   <p>
-  We share these model output via Zenodo, as listed below:
+  We share these model output as listed below:
   <li>Zonal wind velocity</li>
   <li>Meridional wind velocity</li>
   <li>Net air-sea heat flux</li>
